@@ -1,1 +1,3 @@
 this is another sample of text that i came up with. impressive isnt it?
+I will then add methods and some more important code
+these are extra changes
